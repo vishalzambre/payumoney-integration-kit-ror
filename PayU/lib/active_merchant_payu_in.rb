@@ -1,5 +1,4 @@
 require 'active_merchant'
-require 'active_merchant/billing/integrations'
 require 'digest/sha2'
 require 'bigdecimal'
 
